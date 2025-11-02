@@ -8,9 +8,7 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
-
-.env
+.gitignore
 
 db.sqlite3
 *.sqlite3
