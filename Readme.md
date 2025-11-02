@@ -5,9 +5,11 @@ Minimal full-stack boilerplate using **Django 5 (ASGI/async) + Django Ninja + Ce
 ## 🧩 Features
 - **Django 5** (running fully async with **Uvicorn**)  
 - **Django Ninja** pre-installed  
+- **uv python package manager** pre-installed  
 - **PostgreSQL** as the default database  
 - **Celery + Redis** for background jobs and async tasks  
 - **React + Vite** frontend with hot reload  
+- **Zustand** preinstalled for react state management  
 - Automatic reload for both backend and frontend 
 - Split `.env` files for backend and container configuration  
 
