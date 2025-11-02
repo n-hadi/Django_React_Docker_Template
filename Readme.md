@@ -20,3 +20,6 @@ You **must replace it** with your own unique key before using the template in pr
 git clone https://github.com/n-hadi/Django_React_Docker_Template.git
 cd Django_React_Docker_Template
 docker compose up -d --build
+```
+Backend → http://localhost:8000
+Frontend → http://localhost:5173
